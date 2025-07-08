@@ -27,5 +27,7 @@ Here is the screenshot of the footer area of my Myntra clone:
 ![Footer](screenShots/footer.png)
 
 
-## 🔗 Live Demo
-*(Add GitHub Pages link here, after deployed)*
+## 🔗 Live Demo  
+[Click Here to View](https://arpit11-svg.github.io/myntra-clone/)
+
+
